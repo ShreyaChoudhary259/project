@@ -1,4 +1,4 @@
-* Our project consist of 2 different approaches to build ML models for our dataset and predict the price of a used car based on certain parameters. 
+Our project consist of 2 different approaches to build ML models for our dataset and predict the price of a used car based on certain parameters. We also performed basic Data analysis on Tableau creating different Charts for Data visualization
 
 A) The first approach was working on Google collab using Python and its libraries.
 
@@ -20,5 +20,3 @@ B) In the second approach we performed ETL on an Apache VirtualBox using various
 3. Pyspark and Hive connectivity was established
 4. Basic Data preprocessing was done and we used a Random Forest model from the Mllib library
 5. Lastly transformations were performed onto the data and the newly transformed files loaded back to HDFS
-
-* We also performed basic Data analysis on Tableau creating different Charts for Data visualization
